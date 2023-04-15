@@ -1,0 +1,25 @@
+Dados Pessoais
+
+nome
+email
+numero de telefone
+data de nascimento
+sexo
+Colaboracao
+
+tipo de doação (mensal, anual, unica)
+valor 30, 50 70 100, outro valor
+CPF
+Forma de doação (C.Credito, Boleto, PIX)
+Endereço
+
+CEP
+Rua
+Numero
+Complemento
+Bairro
+Cidade
+Estado
+
+“Nem sempre terás o que desejas, mas enquanto estiveres ajudando aos outros encontrarás os recursos de que precisas.” Chico Xavier
+

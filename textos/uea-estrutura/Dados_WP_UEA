@@ -1,0 +1,93 @@
+Bancos de dados
+u761171829_uea_adm
+Usuario: u761171829_uea
+Senha:AdmUea#2023
+
+u761171829_jornal_uea
+Usuário:u761171829_jornal
+Senha: JornalUea#2023
+
+u761171829_blog_uea
+Usuario: u761171829_blog
+Senha: BlogUea#2023
+
+
+Contas de e-mail
+
+adm@uniaoespiritaalagoinhense.com.br
+Senha: AdmUea#2023
+
+contato@uniaoespiritaalagoinhense.com.br
+Senha: ContatoUea#2023
+
+doacao@uniaoespiritaalagoinhense.com.br
+Senha: DoacaoUea#2023
+
+colegiado_diretor@uniaoespiritaalagoinhense.com.br
+Senha: ColegiadoUea#2023
+
+diretoria_executiva@uniaoespiritaalagoinhense.com.br
+Senha: DiretoriaExecutiva#2023
+
+secretaria@uniaoespiritaalagoinhense.com.br
+Senha: SecretariaUea#2023
+
+tesouraria@uniaoespiritaalagoinhense.com.br
+Senha: TesourariaUea#2023
+
+patrimonio@uniaoespiritaalagoinhense.com.br
+Senha: PatrimonioUea#2023
+
+estudo@uniaoespiritaalagoinhense.com.br
+Senha: EstudoUea#2023
+
+livraria@uniaoespiritaalagoinhense.com.br
+Senha: LivrariaUea#2023
+
+bazar@uniaoespiritaalagoinhense.com.br
+Senha:BazarUea#2023
+
+cultura@uniaoespiritaalagoinhense.com.br
+Senha:CulturaUea#2023
+
+
+comunicacao@uniaoespiritaalagoinhense.com.br
+Senha:ComunicacaoUea#2023
+
+inscricao@uniaoespiritaalagoinhense.com.br
+Senha: InscricaoUea#2023
+
+conselho@uniaoespiritaalagoinhense.com.br
+Senha: ConselhoUea#2023
+
+contato@jornal.uniaoespiritaalagoinhense.com.br
+Senha:ContatoJornal#2023
+
+contato@blog.uniaoespiritaalagoinhense.com.br
+Senha: ContatoBlog#2023
+
+Páginas
+Institucional: https://uniaoespiritaalagoinhense.com.br/institucional/
+    https://uniaoespiritaalagoinhense.com.br/institucional/#quem-somos
+    https://uniaoespiritaalagoinhense.com.br/institucional/#missao
+    https://uniaoespiritaalagoinhense.com.br/institucional/#visao
+    https://uniaoespiritaalagoinhense.com.br/institucional/#valores
+    https://uniaoespiritaalagoinhense.com.br/institucional/#diretoria
+Espiritismo: https://uniaoespiritaalagoinhense.com.br/espiritismo/
+Atividades: https://uniaoespiritaalagoinhense.com.br/atividades/
+Estudos: https://uniaoespiritaalagoinhense.com.br/estudos/
+Doações: https://uniaoespiritaalagoinhense.com.br/doacoes/
+Voluntarios: https://uniaoespiritaalagoinhense.com.br/seja-voluntario/
+Sócios: https://uniaoespiritaalagoinhense.com.br/seja-socio-2/
+Contato: https://uniaoespiritaalagoinhense.com.br/contato/
+
+Subdominio:
+Jornal:https://jornal.uniaoespiritaalagoinhense.com.br/
+Blog:https://blog.uniaoespiritaalagoinhense.com.br/
+Sistema: sisuea.uniaoespiritaalagoinhense.com.br/
+
+
+
+Criação de tabelas
+
+CREATE TABLE `u761171829_teste`.`clientes` ( `id` INT(5) NOT NULL AUTO_INCREMENT , `nome` VARCHAR(200) NOT NULL , `email` VARCHAR(200) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
